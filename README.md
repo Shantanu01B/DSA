@@ -6,6 +6,7 @@ Data Structures and Algorithms code in C++
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Shantanu01B/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Shantanu01B/DSA/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Shantanu01B/DSA/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shantanu01B/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -21,6 +22,7 @@ Data Structures and Algorithms code in C++
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Shantanu01B/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shantanu01B/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Shantanu01B/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Prefix Sum
