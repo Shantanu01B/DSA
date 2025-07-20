@@ -15,6 +15,7 @@ Data Structures and Algorithms code in C++
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Shantanu01B/DSA/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/Shantanu01B/DSA/tree/master/0258-add-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,4 +30,12 @@ Data Structures and Algorithms code in C++
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Shantanu01B/DSA/tree/master/0238-product-of-array-except-self) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Shantanu01B/DSA/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Shantanu01B/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
