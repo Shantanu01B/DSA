@@ -11,6 +11,7 @@ Data Structures and Algorithms code in C++
 | [0238-product-of-array-except-self](https://github.com/Shantanu01B/DSA/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shantanu01B/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Shantanu01B/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
+| [3226-minimum-number-game](https://github.com/Shantanu01B/DSA/tree/master/3226-minimum-number-game) |
 ## Math
 |  |
 | ------- |
@@ -34,8 +35,17 @@ Data Structures and Algorithms code in C++
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Shantanu01B/DSA/tree/master/0258-add-digits) |
+| [3226-minimum-number-game](https://github.com/Shantanu01B/DSA/tree/master/3226-minimum-number-game) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Shantanu01B/DSA/tree/master/0258-add-digits) |
+## Sorting
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/Shantanu01B/DSA/tree/master/3226-minimum-number-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/Shantanu01B/DSA/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
