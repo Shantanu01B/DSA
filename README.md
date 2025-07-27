@@ -48,4 +48,20 @@ Data Structures and Algorithms code in C++
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/Shantanu01B/DSA/tree/master/3226-minimum-number-game) |
+## Hash Table
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Shantanu01B/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## String
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Shantanu01B/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Shantanu01B/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Shantanu01B/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
