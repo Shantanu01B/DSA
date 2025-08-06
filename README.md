@@ -21,6 +21,7 @@ Data Structures and Algorithms code in C++
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Shantanu01B/DSA/tree/master/0189-rotate-array) |
+| [0344-reverse-string](https://github.com/Shantanu01B/DSA/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,6 +56,7 @@ Data Structures and Algorithms code in C++
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Shantanu01B/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shantanu01B/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
