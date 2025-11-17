@@ -6,6 +6,7 @@ Data Structures and Algorithms code in C++
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shantanu01B/DSA/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shantanu01B/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Shantanu01B/DSA/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Shantanu01B/DSA/tree/master/0238-product-of-array-except-self) |
@@ -53,6 +54,7 @@ Data Structures and Algorithms code in C++
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shantanu01B/DSA/tree/master/0001-two-sum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shantanu01B/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
