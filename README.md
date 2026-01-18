@@ -8,6 +8,7 @@ Data Structures and Algorithms code in C++
 | ------- |
 | [0001-two-sum](https://github.com/Shantanu01B/DSA/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shantanu01B/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Shantanu01B/DSA/tree/master/0053-maximum-subarray) |
 | [0189-rotate-array](https://github.com/Shantanu01B/DSA/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Shantanu01B/DSA/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shantanu01B/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -70,4 +71,12 @@ Data Structures and Algorithms code in C++
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Shantanu01B/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Shantanu01B/DSA/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Shantanu01B/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
