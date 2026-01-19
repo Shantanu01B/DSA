@@ -9,6 +9,7 @@ Data Structures and Algorithms code in C++
 | [0001-two-sum](https://github.com/Shantanu01B/DSA/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shantanu01B/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Shantanu01B/DSA/tree/master/0053-maximum-subarray) |
+| [0136-single-number](https://github.com/Shantanu01B/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Shantanu01B/DSA/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Shantanu01B/DSA/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shantanu01B/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -79,4 +80,8 @@ Data Structures and Algorithms code in C++
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shantanu01B/DSA/tree/master/0053-maximum-subarray) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Shantanu01B/DSA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
