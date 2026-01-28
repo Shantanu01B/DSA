@@ -10,13 +10,13 @@ public:
                 return mid;
             }
             
-            if(A[start]<=A[mid]){
+            if(A[start]<=A[mid]){  //left sorted 
                 if(A[start]<=target && target<=A[mid]){
                     end=mid-1;
                 }else{
                     start=mid+1;          
                     }
-            }else{
+            }else{      //Right Sorted 
                 if(A[mid]<=target && target<=A[end]){
                     start=mid+1;
                 }else{
@@ -24,6 +24,6 @@ public:
                 }
             }
         }
-        return -1;
+        return -1; //when no target found 
     }
 };
