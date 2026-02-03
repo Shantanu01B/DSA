@@ -11,6 +11,7 @@ Data Structures and Algorithms code in C++
 | [0033-search-in-rotated-sorted-array](https://github.com/Shantanu01B/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Shantanu01B/DSA/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Shantanu01B/DSA/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shantanu01B/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Shantanu01B/DSA/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Shantanu01B/DSA/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shantanu01B/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -32,6 +33,7 @@ Data Structures and Algorithms code in C++
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shantanu01B/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shantanu01B/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shantanu01B/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Shantanu01B/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Prefix Sum
