@@ -67,6 +67,7 @@ Data Structures and Algorithms code in C++
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Shantanu01B/DSA/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Shantanu01B/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Shantanu01B/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shantanu01B/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -94,4 +95,8 @@ Data Structures and Algorithms code in C++
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shantanu01B/DSA/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shantanu01B/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
