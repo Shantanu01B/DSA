@@ -15,6 +15,7 @@ Data Structures and Algorithms code in C++
 | [0189-rotate-array](https://github.com/Shantanu01B/DSA/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Shantanu01B/DSA/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shantanu01B/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/Shantanu01B/DSA/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Shantanu01B/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/Shantanu01B/DSA/tree/master/1539-kth-missing-positive-number) |
 | [3226-minimum-number-game](https://github.com/Shantanu01B/DSA/tree/master/3226-minimum-number-game) |
@@ -36,6 +37,7 @@ Data Structures and Algorithms code in C++
 | [0033-search-in-rotated-sorted-array](https://github.com/Shantanu01B/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shantanu01B/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shantanu01B/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/Shantanu01B/DSA/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Shantanu01B/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/Shantanu01B/DSA/tree/master/1539-kth-missing-positive-number) |
 ## Prefix Sum
