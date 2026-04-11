@@ -14,6 +14,7 @@ Data Structures and Algorithms code in C++
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shantanu01B/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Shantanu01B/DSA/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Shantanu01B/DSA/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/Shantanu01B/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shantanu01B/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Shantanu01B/DSA/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Shantanu01B/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -30,12 +31,14 @@ Data Structures and Algorithms code in C++
 | [0011-container-with-most-water](https://github.com/Shantanu01B/DSA/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Shantanu01B/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Shantanu01B/DSA/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/Shantanu01B/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Shantanu01B/DSA/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shantanu01B/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shantanu01B/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/Shantanu01B/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shantanu01B/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Shantanu01B/DSA/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Shantanu01B/DSA/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -93,6 +96,7 @@ Data Structures and Algorithms code in C++
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Shantanu01B/DSA/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/Shantanu01B/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
